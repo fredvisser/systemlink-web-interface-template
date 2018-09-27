@@ -1,6 +1,6 @@
 {
    "authorizationMarker": "/plugins/webvi_plugin/resources/marker.txt",
-   "buttonIconCls": "fa fa-area-chart",
+   "buttonIconCls": "webvi_plugin-icon",
    "buttonLabelToken": "webvi_plugin.pluginTitle",
    "buttonTooltipToken": "webvi_plugin.pluginTitle",
    "iframeResources": {
